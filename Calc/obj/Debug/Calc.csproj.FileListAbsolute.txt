@@ -1,0 +1,10 @@
+C:\Dev\Projects\Calc\Calc\bin\Debug\Calc.exe
+C:\Dev\Projects\Calc\Calc\bin\Debug\Calc.pdb
+C:\Dev\Projects\Calc\Calc\bin\Debug\calcLib.dll
+C:\Dev\Projects\Calc\Calc\bin\Debug\calcLib.pdb
+C:\Dev\Projects\Calc\Calc\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\Projects\Calc\Calc\obj\Debug\Calc.MainForm.resources
+C:\Dev\Projects\Calc\Calc\obj\Debug\GenerateResource.read.1.tlog
+C:\Dev\Projects\Calc\Calc\obj\Debug\GenerateResource.write.1.tlog
+C:\Dev\Projects\Calc\Calc\obj\Debug\Calc.exe
+C:\Dev\Projects\Calc\Calc\obj\Debug\Calc.pdb

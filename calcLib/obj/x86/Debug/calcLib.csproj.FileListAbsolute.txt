@@ -1,0 +1,10 @@
+C:\Dev\Projects\Calc\calcLib\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dev\Projects\Calc\calcLib\obj\x86\Debug\calcLib.Controls.hexaCell.resources
+C:\Dev\Projects\Calc\calcLib\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dev\Projects\Calc\calcLib\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dev\Projects\Calc\calcLib\bin\Debug\calcLib.dll
+C:\Dev\Projects\Calc\calcLib\bin\Debug\calcLib.pdb
+C:\Dev\Projects\Calc\calcLib\obj\x86\Debug\calcLib.dll
+C:\Dev\Projects\Calc\calcLib\obj\x86\Debug\calcLib.pdb
+C:\Dev\Projects\Calc\calcLib\obj\x86\Debug\calcLib.Controls.hexaBox.resources
+C:\Dev\Projects\Calc\calcLib\obj\x86\Debug\calcLib.Controls.hexaCalc.resources

@@ -1,0 +1,7 @@
+C:\Dev\Projects\Calc\Calc\bin\Release\Calc.exe
+C:\Dev\Projects\Calc\Calc\bin\Release\calcLib.dll
+C:\Dev\Projects\Calc\Calc\obj\Release\ResolveAssemblyReference.cache
+C:\Dev\Projects\Calc\Calc\obj\Release\Calc.MainForm.resources
+C:\Dev\Projects\Calc\Calc\obj\Release\GenerateResource.read.1.tlog
+C:\Dev\Projects\Calc\Calc\obj\Release\GenerateResource.write.1.tlog
+C:\Dev\Projects\Calc\Calc\obj\Release\Calc.exe
